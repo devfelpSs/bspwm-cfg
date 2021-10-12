@@ -1,2 +1,2 @@
-# bspwm-cfg2021
+# bspwm-cfg
 My new configuration for bspwm
